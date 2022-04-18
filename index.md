@@ -2,5 +2,6 @@
 
 
 ## Homework 2
-Click to see [HTML file] (HW2.html)
-Click to see [notebook file] (HW2.ipynb)
+* Click to see [HTML file](HW2.html)
+
+* Click to see [notebook file](HW2.ipynb)
