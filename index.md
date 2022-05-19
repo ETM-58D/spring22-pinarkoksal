@@ -4,3 +4,12 @@
 ## Homework 2
 * Click to see [HTML file](HW2.html)
 * Click to download [notebook file](HW2.ipynb)
+
+## Homework 3
+All related files are in [here](https://github.com/ETM-58D/spring22-pinarkoksal)
+### Part 1
+* Click to see [HTML file](HW3-p1.html)
+* Click to download [notebook file](HW3-p1.jpynb)
+
+
+### Part 2
