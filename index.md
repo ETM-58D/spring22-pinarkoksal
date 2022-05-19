@@ -11,9 +11,9 @@ All related files are in [here](https://github.com/ETM-58D/spring22-pinarkoksal)
 ### Part 1
 * Click to see [HTML file](HW3-p1.html)
 * Click to download [notebook file](HW3-p1.jpynb)
-* Click to see [R file](HW3-p1.R)
+* Click to download [R file](HW3-p1.R)
 
 ### Part 2
 * Click to see [HTML file](HW3-p2.html)
 * Click to download [notebook file](HW3-p2.jpynb)
-* * Click to see [R file](HW3-p2.R)
+* Click to download [R file](HW3-p2.R)
