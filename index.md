@@ -26,4 +26,4 @@ All related files are in [here](https://github.com/ETM-58D/spring22-pinarkoksal)
 ## Final
 * Click to see [HTML file](Final/PinarKoksal_Final.html)
 * Click to download [notebook file](Final/PinarKoksal_Final.ipynb)
-* Click to see [R files and all other files] to run the codes(https://github.com/ETM-58D/spring22-pinarkoksal/tree/gh-pages/Final)
+* Click to see [R files and all other files](https://github.com/ETM-58D/spring22-pinarkoksal/tree/gh-pages/Final) to run the codes
